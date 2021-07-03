@@ -1,5 +1,4 @@
 # MEL Datasets
-2021 CCKS MEL Datasets
 
 ## 1. How to get visual information
 
