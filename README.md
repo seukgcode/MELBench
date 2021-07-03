@@ -1,4 +1,4 @@
-# MEL Datasets
+# Multimodal Entity Linking Datasets Benchmark
 
 ## 1. Introduction
 
