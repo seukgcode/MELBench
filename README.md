@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Multimodal entity linking (MEL) aims to utilize multimodal information to map mentions to corresponding entities defined in knowledge bases. In this paper, we release three MEL datasets: Weibo-MEL, Wikidata-MEL and Richpedia-MEL, containing 25,602, 18,880 and 17,806 samples from social media, encyclopedia and multimodal knowledge graphs respectively. A MEL dataset construction approach is proposed, including five stages: multimodal information extraction, mention extraction, entity extraction, triple construction and dataset construction. Experiment results demonstrate the usability of the datasets and the distinguishability between baseline models.
+Multimodal entity linking (MEL) aims to utilize multimodal information to map mentions to corresponding entities defined in knowledge bases. We release three MEL datasets: Weibo-MEL, Wikidata-MEL and Richpedia-MEL, containing 25,602, 18,880 and 17,806 samples from social media, encyclopedia and multimodal knowledge graphs respectively. A MEL dataset construction approach is proposed, including five stages: multimodal information extraction, mention extraction, entity extraction, triple construction and dataset construction. Experiment results demonstrate the usability of the datasets and the distinguishability between baseline models.
 
 ## 2. How to get visual information
 
@@ -27,9 +27,9 @@ The extraction codes are 2021.
 
 **Mention-entity pairs:**
 
-* "仪式": "仪式（词语释义）"
+* "刘德波": "刘德波"
 * "中国": "中国（世界四大文明古国之一）"
-* "军人": "军人（名词）"
+* "辽宁舰": "中国人民解放军海军辽宁舰"
 
 ### 3.2 Wikidata-MEL dataset
 
