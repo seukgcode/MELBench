@@ -21,12 +21,9 @@ Visual information download addresses:
 * [Wikidata-MEL Visual Information](https://pan.baidu.com/s/1FbhgMZ-w2DdAPLgCBDvKtQ)
 * [Richpedia-MEL Visual Information](https://pan.baidu.com/s/1lt-SmWUX5GAmLRNWggDkXQ?from=init#list/path=%2Fsharelink653312845-459959024382112%2Fimage&parentPath=%2Fsharelink653312845-459959024382112)
 
-The knowledge graphs used for the MEL task of Weibo-MEL, Wikidata-MEL and Richpedia-MEL datasets are obtained from [KVQA](https://malllabiisc.github.io/resources/kvqa/), [CN-DBpedia](http://openkg.cn/dataset/cndbpedia) and [Richpedia](http://richpedia.cn/download), respectively.
-
 Knowledge graph download addresses:
-* [Weibo-MEL Knowledge Graph](https://pan.baidu.com/s/1jzuJyafp6MsyHWUgJbQ6vA)
-* [Wikidata-MEL Knowledge Graph](https://pan.baidu.com/s/1gMEU_anT8KlhBsBo0oMeyQ)
-* [Richpedia-MEL Knowledge Graph](https://pan.baidu.com/s/1FTEwSV6CystQHT_wgdjYEA)
+* [Wikidata Knowledge Graph for Weibo-MEL and Wikidata-MEL](https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.json.bz2)
+* [Richpedia Knowledge Graph for Richpedia-MEL](https://pan.baidu.com/s/1FTEwSV6CystQHT_wgdjYEA)
 
 The extraction codes are 2021.
 
